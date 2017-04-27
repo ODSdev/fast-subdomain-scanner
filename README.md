@@ -8,7 +8,7 @@ Written by Daniel Fernandez (daniel.f@opendatasecurity.io) ([@dj-thd](https://gi
 
 ## Requirements
 
-Currently, the script is designed to run under the latest PHP version until the moment that is PHP 7.1, but if needed you should be able to adapt it to work on lower versions by removing the PHP 7.1 specific features where applicable or replacing them by equivalents in lower versions (i.e. type hinting could be removed without altering the script functionality).
+Currently, the script is designed to run under the latest PHP version (at the moment of the first release that was PHP 7.1), but if needed you should be able to adapt it to work on lower versions by removing the PHP 7.1 specific features where applicable or replacing them by equivalents in lower versions (i.e. type hinting could be removed without altering the script functionality).
 
 ## Usage
 
